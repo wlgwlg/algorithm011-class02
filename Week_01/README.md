@@ -26,7 +26,12 @@ git remote add origin git@github.com:wlgwlg/learn_git.git
 
 git push -u origin master
 
-![image](https://github.com/wlgwlg/algorithm011-class02/blob/master/Week_01/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95.png)
+二、数据结构与算法脑图
+
+![image](https://github.com/wlgwlg/algorithm011-class02/blob/master/Week_01/数据结构和算法.png)
+
+三、
+
 二、数组、链表和跳表
 
 1、数组：
