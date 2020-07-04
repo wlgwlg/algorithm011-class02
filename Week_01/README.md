@@ -30,7 +30,11 @@ git push -u origin master
 
 ![image](https://github.com/wlgwlg/algorithm011-class02/blob/master/Week_01/数据结构和算法.png)
 
-三、
+三、时间复杂度
+
+在n规模一定大的情况下，各时间复杂度数量级关系
+
+![image](https://github.com/wlgwlg/algorithm011-class02/blob/master/Week_01/时间复杂度量级关系.png)
 
 二、数组、链表和跳表
 
